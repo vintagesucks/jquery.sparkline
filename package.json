@@ -1,0 +1,10 @@
+{
+  "name": "jquery.sparkline",
+  "version": "2.1.12",
+  "author": "gwatts",
+  "main": "./dist/jquery.sparkline.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vintagesucks/jquery.sparkline.git"
+  }
+}
